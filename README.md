@@ -1,16 +1,62 @@
-## Hi there 👋
+<p align="center">
+  <img src="fotoperfilximena.png" width="180" style="border-radius:50%;" alt="Profile picture" />
+</p>
 
-<!--
-**ximenabaquero/ximenabaquero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Ximena Baquero👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Systems Engineering student specializing in software development and cybersecurity.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+Focused on backend engineering, cybersecurity fundamentals, cloud concepts, and building real-world projects.  
+I work with Python, Flask, Django, SQL, Linux, and JVM languages like Java and Kotlin.  
+My learning path includes hands-on training from Google and IBM in security and software development.
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages:** Python, Java, Kotlin, C, C++, JavaScript  
+**Web:** HTML, CSS, Flask, Django  
+**Databases:** MySQL, MongoDB, SQL  
+**Tools:** Linux, Git, GitHub, VS Code  
+**Foundations:** Security Basics, Networking, Cloud Computing  
+**Mobile:** Android fundamentals (Kotlin/Java)
+
+---
+
+## 🎓 Certifications (Summary)
+
+**Cybersecurity – Google:**  
+Foundations, risks & threats, detection/response, Linux & SQL, networks, automating security tasks with Python.
+
+**Software Development – IBM:**  
+Django + SQL, Microservices & Serverless, AI apps with Python/Flask, React, Git & GitHub, Software Engineering fundamentals.
+
+**Cloud & AI – IBM:**  
+Cloud Computing, Generative AI for software developers.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ximenabaquero&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ximenabaquero&layout=compact&theme=radical" height="160" />
+</p>
+
+---
+
+## 🚀 Currently Learning
+
+- Backend development with Python, Java, and Kotlin  
+- Networking and cybersecurity fundamentals  
+- Linux for security workflows  
+- Cloud concepts and secure architectures  
+- Microservices and scalable backend design  
+
+---
