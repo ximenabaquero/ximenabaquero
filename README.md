@@ -20,7 +20,7 @@ My learning path includes hands-on training from Google and IBM in security and 
 
 ## 🛠️ Skills & Technologies
 
-**Languages:** Python, Java, Kotlin, C, C++, JavaScript  
+**Languages:** Python, Java, Kotlin, JavaScript  
 **Web:** HTML, CSS, Flask, Django  
 **Databases:** MySQL, MongoDB, SQL  
 **Tools:** Linux, Git, GitHub, VS Code  
