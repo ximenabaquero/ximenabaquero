@@ -53,7 +53,7 @@ I'm a Systems Engineering student (8th semester) specialized in frontend develop
 
 ---
 
-### 🏛️ [Plataforma Mosquera Juvenil](https://github.com/DousoAdmin/pmj-front)
+### 🏛️ [Plataforma Municipal de Juventudes Mosquera ](https://github.com/DousoAdmin/pmj-front)
 > Institutional youth platform for the municipality of Mosquera, Colombia
 
 - Full frontend built with **Nuxt 4 (Vue) · TypeScript**
